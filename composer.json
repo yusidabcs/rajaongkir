@@ -1,6 +1,7 @@
 {
     "name": "bcscoder/rajaongkir",
-    "description": "",
+    "description": "Laravel + rajaongkir API.",
+    "license": "BSD-2-Clause",
     "authors": [
         {
             "name": "bcscoder",
