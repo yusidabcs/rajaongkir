@@ -14,11 +14,11 @@ via composer
 
 Once this operation completes, the final step is to add the service provider. Open app/config/app.php, and add a new item to the providers array.
 
-''Bcscoder\Rajaongkir\RajaongkirServiceProvider','
+'Bcscoder\Rajaongkir\RajaongkirServiceProvider'
 
 After that add new item to alias array in app.php
 
-''RajaOngkir' => 'Bcscoder\Rajaongkir\Facades\Profiler','
+'RajaOngkir' => 'Bcscoder\Rajaongkir\Facades\Profiler'
 
 ### Example to use
 
